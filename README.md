@@ -1,7 +1,7 @@
 # 👋 Hola, soy Adrián Sosa
 
 💻 Data Engineer | Python | PySpark | AWS  
-🌐 Background en Desarrollo Web (JS, React)  
+💻 Fullstack developer | Node JS | React | SQL
 📍 Argentina  
 
 ---
